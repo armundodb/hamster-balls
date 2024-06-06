@@ -1,1 +1,10 @@
 #config_version=6
+
+
+switches:
+  s_left_flipper:
+    number:
+    tags: left_flipper
+  s_right_flipper:
+    numer:
+    tags: right_flipper

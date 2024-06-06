@@ -1,0 +1,43 @@
+2024-06-05 23:26:22,114 : INFO : root : Loading config.
+2024-06-05 23:26:22,114 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2024-06-05 23:26:22,114 : INFO : ConfigProcessor : Loading config from cache: C:\Users\chacn\AppData\Local\Temp\a90c820507c91ed27cdf86eced6d9c0f.mpf_cache
+2024-06-05 23:26:22,177 : INFO : ConfigProcessor : Loading config from cache: C:\Users\chacn\AppData\Local\Temp\fbabc309a144a7aafb65a7897749e0ea.mpf_cache
+2024-06-05 23:26:22,177 : INFO : ConfigProcessor : Loading config from cache: C:\Users\chacn\AppData\Local\Temp\e20512497c43897c378ace5d150d48ab.mpf_cache
+2024-06-05 23:26:22,177 : INFO : Machine : Mission Pinball Framework Core Engine v0.57.1
+2024-06-05 23:26:22,177 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': False, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2024-06-05-23-26-22-mpf-ProjectBox.log', 'pause': False, 'production': False, 'text_ui': True, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': None, 'syslog_address': None, 'mc_file_name': None, 'no_sound': False}
+2024-06-05 23:26:22,177 : INFO : Machine : MPF path: C:\~\mpfenv\lib\site-packages\mpf
+2024-06-05 23:26:22,177 : INFO : Machine : Machine path: C:\Users\chacn\OneDrive\Desktop\HamsterBalls\hamster-balls
+2024-06-05 23:26:22,177 : INFO : Machine : Platform: win32
+2024-06-05 23:26:22,177 : INFO : Machine : Python executable location: C:\~\mpfenv\Scripts\python.exe
+2024-06-05 23:26:22,177 : INFO : Machine : Python version: 3.9.13 (64-bit)
+2024-06-05 23:26:22,177 : INFO : Machine : Initializing MPF...
+2024-06-05 23:26:22,396 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2024-06-05 23:26:22,412 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2024-06-05 23:26:22,412 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.57.1', 'prev_value': None, 'change': True}
+2024-06-05 23:26:22,412 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.57.1, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2024-06-05 23:26:22,412 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.9.13', 'prev_value': None, 'change': True}
+2024-06-05 23:26:22,428 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-10-10.0.22631-SP0', 'prev_value': None, 'change': True}
+2024-06-05 23:26:22,428 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2024-06-05 23:26:22,428 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '10', 'prev_value': None, 'change': True}
+2024-06-05 23:26:22,428 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.22631', 'prev_value': None, 'change': True}
+2024-06-05 23:26:22,428 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2024-06-05 23:26:22,428 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2024-06-05 23:26:22,443 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2024-06-05 23:26:22,443 : INFO : EventManager : Event: ======'init_phase_3'====== Args={}
+2024-06-05 23:26:22,443 : INFO : EventManager : Event: ======'init_phase_4'====== Args={}
+2024-06-05 23:26:22,443 : INFO : EventManager : Event: ======'machine_var_audits_events_game_started'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2024-06-05 23:26:22,443 : INFO : EventManager : Event: ======'machine_var_audits_events_game_ended'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2024-06-05 23:26:22,443 : INFO : EventManager : Event: ======'machine_var_audits_player_score'====== Args={'value': {'top': [], 'average': 0, 'total': 0}, 'prev_value': None, 'change': True}
+2024-06-05 23:26:22,443 : INFO : EventManager : Event: ======'init_phase_5'====== Args={}
+2024-06-05 23:26:22,459 : INFO : EventManager : Event: ======'init_done'====== Args={}
+2024-06-05 23:26:22,474 : INFO : EventManager : Event: ======'machine_reset_phase_1'====== Args={}
+2024-06-05 23:26:22,474 : INFO : EventManager : Event: ======'machine_reset_phase_2'====== Args={}
+2024-06-05 23:26:22,474 : INFO : EventManager : Event: ======'machine_reset_phase_3'====== Args={}
+2024-06-05 23:26:22,474 : INFO : EventManager : Event: ======'reset_complete'====== Args={}
+2024-06-05 23:26:22,474 : INFO : EventManager : Event: ======'mode_attract_will_start'====== Args={}
+2024-06-05 23:26:22,474 : INFO : EventManager : Event: ======'mode_attract_starting'====== Args={}
+2024-06-05 23:26:22,474 : INFO : Mode.attract : Started. Priority: 10
+2024-06-05 23:26:22,474 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2024-06-05 23:26:22,474 : INFO : EventManager : Event: ======'mode_attract_started'====== Args={}
+2024-06-05 23:26:22,474 : INFO : EventManager : Event: ======'collecting_balls_complete'====== Args={}
+2024-06-05 23:26:22,490 : INFO : Machine : Starting the main run loop.
